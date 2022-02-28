@@ -1,0 +1,13 @@
+.listWrapper {
+    margin-top: 50px;
+}
+
+.inputDanger {
+    border: 3px solid red;
+    color: red;
+}
+
+.inputInfo {
+    color: red;
+    font-size: 12px;
+}
